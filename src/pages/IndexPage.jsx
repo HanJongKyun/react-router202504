@@ -1,5 +1,4 @@
 import React from 'react';
-import MainNav from '../components/MainNav';
 import styles from './IndexPage.module.scss';
 
 const IndexPage = () => {
